@@ -1,3 +1,5 @@
+# program for removing duplicates 
+
 def eliminateDuplicates(lst):
     newlist=[]
     for item in lst:
